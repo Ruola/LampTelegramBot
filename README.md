@@ -1,10 +1,9 @@
-# A Personal Project To Build A Telegram Bot For A Lamp Switch
+# A Smart yet Private Lamp Controller
 
 ## Motivation
 
-Before you go to bed, you might need to go far away to turn off your bedroom light, and then go back in dark. Also, a nighttime urination could cause falls and injuries at night because your room is totally dark. How about using your phone to control your lamp switch? If you use Telegram chat app, luckily, you can directly control your lamp without downloading any other app.
+Before you go to bed, you might need to go far away to turn off your bedroom light, and then go back in dark. Also, a nighttime urination could cause falls and injuries at night because your room is totally dark. How about using your phone to control your lamp switch? Indeed, you could download an app to control it. However, it might cause privacy leakage. HAHA, classic. Now, use the Python script to gain your private one. Also, if you use Telegram chat app, luckily, you can directly control your lamp without downloading any other app.
 
-The Python script receive messa
 
 ## Requirements
 
